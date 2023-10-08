@@ -1,0 +1,2 @@
+&& = and symbol
+|| = or symbol
